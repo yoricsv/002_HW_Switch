@@ -9,7 +9,7 @@ https://github.com/yoricsv/002_HW_Switch.git
 :---: | :---
 *file* | README.md
 *brief* |  A few months ago I made a program for the STM32F103x MCU, making a dynamic indication <br/>
-on a four-digit seven-segment display. Of course, creating a program in which I only <br/>
-use the switch operator is not interested, and I try to implement the same in C ++ for <br/>
-a console application.
+| on a four-digit seven-segment display. Of course, creating a program in which I only <br/>
+| use the switch operator is not interested, and I try to implement the same in C ++ for <br/>
+| a console application.
 *Note* | JUST FOR ME!!! > I wanna refactoring this code!!! (slit on the files)
